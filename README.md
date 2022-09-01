@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @de-Ann-Hickey
-- 👀 I’m interested in making and breaking stuff, cloud technologies (especially decoupling, serverless, and microservices), and continuously learning.
-- 🌱 I’m currently learning python, front-end WD, and AWS. I'd like to learn more javascript.
+- 👀 I’m interested in making and breaking stuff, cloud technologies (I'm a certified AWS Cloud Archtiect Associate), and continuously learning.
+- 🌱 I’m currently learning everything devOps and doing some ML projects.
 - 📫 How to reach me:
 2freefly35@gmail.com
 
