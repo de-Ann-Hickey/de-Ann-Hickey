@@ -17,7 +17,7 @@
         name: docker
         description: docker repo
         baseurl: "https://download.docker.com/linux/centos/docker-ce.repo"
-        enable: true
+        enabled: true
         gpgcheck: true
         gpgkey: "https://download.docker.com/linux/{{ mydistribution }}/gpg"
 
