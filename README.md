@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @de-Ann-Hickey
+- 👋 Hi, I’m D !
 - 👀 I’m interested in making and breaking stuff, cloud technologies (I'm a certified AWS Cloud Archtiect Associate), and continuously learning.
 - 🌱 I’m currently learning everything devOps and doing some ML projects.
 - 📫 How to reach me:
